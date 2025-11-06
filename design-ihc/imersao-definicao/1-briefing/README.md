@@ -13,21 +13,24 @@
 - [ ] 
 
 ### Público-Alvo
+-
 
 ### Cenário de Uso
-
+-
 ### Problemas a Resolver
-
+-
+-
 ### Prioridades
-
+-
+-
 ### Fontes de Informação
-
+-
 ### Integrações
-
+-
 ### Padrão de Interface Prévia
-
+-
 ### Contato Técnico
-
+-
 ## Evidência
 ![Reunião com cliente](link_para_foto.jpg)
 
