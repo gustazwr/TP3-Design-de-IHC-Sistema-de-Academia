@@ -5,3 +5,8 @@
 ## Could Have
 ## Won’t have
 
+### Justificativas:
+- **Must Have**:
+- **Should Have**:
+- **Could Have**:
+- **Could Have**:
