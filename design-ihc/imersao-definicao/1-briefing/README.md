@@ -32,7 +32,8 @@
 ### Contato Técnico
 -
 ## Evidência
-![Reunião com cliente](link_para_foto.jpg)
+![Reunião com cliente](link_para_foto.jpg) --Colocar a foto da entrevista gustavo
+
 
 
 
