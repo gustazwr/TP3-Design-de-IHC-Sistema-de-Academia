@@ -21,7 +21,7 @@
 
 ---
 
-## Persona 2: Instrutor
+## Persona 2: 
 
 ### Quem  
 - **Profissão:** Instrutor/Personal
@@ -42,7 +42,7 @@
 
 ---
 
-## Persona 3: Aluno com Acessibilidade
+## Persona 3: 
 
 ### Quem
 - **Profissão:** 
