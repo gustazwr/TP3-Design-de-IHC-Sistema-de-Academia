@@ -2,8 +2,14 @@
 
 ## Matriz CSD 
 ### Matriz CSD - Adriano:
+
+
 ### Matriz CSD - Eduardo:
+
+
 ### Matriz CSD - Gustavo:
+
+
 ### Matriz CSD - Júlio:
 
 
