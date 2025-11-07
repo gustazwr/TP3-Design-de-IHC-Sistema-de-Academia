@@ -23,4 +23,4 @@
 | Fidelização | - | - | - | - |
 
 
-# Opinião do adriano, de tbm colocar como fotos, se der
+# 
