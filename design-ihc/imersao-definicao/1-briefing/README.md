@@ -2,16 +2,16 @@
 
 **Projeto:** Sistema de Gestão de Academia  
 **Etapa:** Imersão – Briefing  
-**Responsável pelo documento:** <Seu nome>  
-**Data da reunião:** <dia/mês/ano>  
-**Local/Modo:** (Presencial / Online)  
+**Responsável pelo documento:** Luiz Gustavo Barros da Silva   
+**Data da reunião:** 04/11/2025  
+**Local/Modo:** Presencial  
 
 ---
 
 ## 1. Identificação do Cliente
-- **Nome:** <Nome da personal>  
+- **Nome:** Marcela Cristiane de Souza Mattos  
 - **Função:** Personal Trainer / Instrutora  
-- **Experiência:** <X anos atuando na área>  
+- **Experiência:** 2 anos atuando na área  
 - **Contexto:** Atua em academias e acompanha alunos diariamente, lidando com treinos, avaliações, comunicação e organização da rotina.
 
 ---
