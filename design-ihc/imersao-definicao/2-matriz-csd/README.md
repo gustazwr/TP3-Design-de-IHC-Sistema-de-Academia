@@ -1,19 +1,6 @@
 # Matriz CSD
 
-## Matriz CSD 
-### Matriz CSD - Adriano:
-
-
-### Matriz CSD - Eduardo:
-
-
-### Matriz CSD - Gustavo:
-
-
-### Matriz CSD - Júlio:
-
-
-
+## Matriz CSD:
 
 ## Certezas (C)
 - [ ] 
