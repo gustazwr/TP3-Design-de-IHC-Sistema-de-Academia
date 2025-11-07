@@ -24,36 +24,43 @@ Coletar informações reais sobre a rotina de um personal trainer para levantar 
 ## 3. Principais Informações Coletadas
 
 ### **A. Contexto de trabalho**
-- <Resumo curto: onde trabalha, quantidade de alunos, rotina geral>
+- Atua há 2 anos como personal/instrutor.
+- Trabalha em 2 academias.
+- Acompanha entre 20 e 25 alunos semanalmente.
+- Centraliza tudo em um único local de organização.
 
 ### **B. Organização atual**
-- <Como registra treinos hoje>
-- <Como controla progresso>
-- <Como se comunica com os alunos>
+- Registra treinos em grupos no WhatsApp criados apenas com o próprio contato.
+- Controla progresso observando os registros no WhatsApp.
+- Comunicação com alunos feita via WhatsApp e Instagram.
 
 ### **C. Principais dificuldades**
-- <Dificuldade 1>
-- <Dificuldade 2>
-- <Dificuldade 3>
+- Demora para encontrar a ficha de cada aluno.
+- Dificuldade em localizar cargas e evolução do último treino.
+- Falta de organização por informações espalhadas em mensagens.
 
 ### **D. Funcionalidades desejadas**
-- <Funcionalidade essencial 1>
-- <Funcionalidade essencial 2>
-- <Funcionalidade essencial 3>
-- (Adicionar todas as que ela falou)
+- Busca rápida da ficha do aluno por nome ou código.
+- Histórico de treinos.
+- Lembrete de avaliações.
+- Controle de pagamentos.
+- Notificações organizadas e mensagens separadas por assunto.
+- Vídeos demonstrativos de exercícios.
+- Interface simples, evitando funções desnecessárias (avaliações muito detalhadas, agendamentos complexos).
 
 ### **E. Prioridades segundo a cliente**
-1. <Prioridade 1>  
-2. <Prioridade 2>  
-3. <Prioridade 3>  
+1. Encontrar a ficha de treino rapidamente.  
+2. Visualizar cargas do último treino sem dificuldade.  
+3. Melhorar a organização do acompanhamento geral de cada aluno.  
 
 ### **F. Acessibilidade**
-- <Comentário sobre necessidades especiais, se houver>  
+- Já atendeu alunos com fraturas e problemas na coluna.
+- Recursos úteis: vídeos explicativos, letras maiores, avisos mais claros.
 
 ---
 
 ## 4. Resumo Executivo
-<Um parágrafo pequeno explicando as necessidades principais da personal e qual rumo isso indica para o sistema.>
+A personal necessita de um sistema simples, rápido e focado em organização. Seu maior problema é localizar fichas, históricos e cargas dentro do WhatsApp, o que consome tempo e atrapalha a rotina com muitos alunos. O sistema ideal deve priorizar busca eficiente, centralização de informações e interface objetiva, evitando funções complexas e pouco utilizadas. O direcionamento do projeto aponta para uma solução prática e enxuta, que acelere o trabalho diário e melhore o acompanhamento individual de cada aluno.
 
 ---
 
