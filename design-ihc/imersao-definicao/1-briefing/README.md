@@ -67,14 +67,6 @@ A personal necessita de um sistema simples, rápido e focado em organização. S
 ## 5. Evidências
 - **PDF da entrevista:** `briefing_reuniao.pdf`
 - **Foto da reunião:** `evidencia_reuniao.jpg` (rostos externos borrados)
-- **Notas adicionais:** `notas_extras.txt` (opcional)
-
----
-
-## 6. Próximos Passos
-- Construção da **Matriz CSD** (próxima etapa – integrante 2)
-- Organização das informações para criação das **personas**
-
 
 
 
