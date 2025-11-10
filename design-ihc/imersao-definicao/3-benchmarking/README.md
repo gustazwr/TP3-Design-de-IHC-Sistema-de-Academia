@@ -92,11 +92,11 @@ Comunidade e interação entre usuários.
 
 ## Tabela Comparativa
 
-| Sistema | Funcionalidade A | Funcionalidade B | Pontos Fortes | Pontos Fracos |
-|---------|------------------|------------------|---------------|---------------|
-| Sistema 1 | ✅ | ❌ | - | - |
-| Sistema 2 | ✅ | ✅ | - | - |
-| Sistema 3 | ❌ | ✅ | - | - |
+| Sistema | Cadastro e busca de alunos | Histórico de treinos e evolução | Controle financeiro e pacotes | Comunicação com aluno | Comunicação com aluno | Acessibilidade (vídeos, letras, clareza) | Pontos Fortes | Pontos Fracos |
+|---------|------------------|------------------|---------------|---------------|----------------|------------|-----------|------------------|
+| MFIT Personal | ✅ | ❌ | - | - | - | - | - | - |
+| Wiki4Fit | ✅ | ✅ | - | - | - | - | - | - |
+
 
 
 ## Prints dos Sistemas
