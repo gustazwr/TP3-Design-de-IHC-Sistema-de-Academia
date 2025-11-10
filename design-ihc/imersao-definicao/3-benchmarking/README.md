@@ -13,6 +13,8 @@
 | Experiência do usuário (UX) | Facilidade de aprendizado, tempo para realizar tarefas, satisfação geral do personal |
 | Público-alvo | Personal trainers e academias de pequeno porte |
 
+
+
 # Definição dos similares-alvo
 
 Foram selecionados dois sistemas similares voltados ao acompanhamento e gestão de treinos em academias e consultorias fitness: MFIT Personal e Wiki4Fit. Os dois pertencem ao mesmo domínio (tecnologias aplicadas à prática de atividades físicas e acompanhamento de alunos), todavia apresentam focos de uso distintos, permitindo uma análise mais ampla das abordagens adotadas no mercado.
@@ -29,6 +31,9 @@ A plataforma oferece gráficos de desempenho, biblioteca de exercícios com víd
 Seu público-alvo são alunos de academia, praticantes autônomos e instrutores que desejam monitorar resultados de forma independente.
 Diferentemente do MFIT, o Wiki4Fit não possui foco na gestão de múltiplos alunos ou no controle financeiro, mas se destaca pela usabilidade, interface moderna e experiência do usuário.
 Assim, o Wiki4Fit representa a visão centrada no aluno, enquanto o MFIT Personal representa a visão centrada no profissional. Essa dualidade permite compreender como o mercado equilibra a necessidade de gestão (lado do instrutor) e a experiência prática (lado do aluno) dentro do mesmo contexto digital.
+
+
+# Estabelecimento de indicadores e obtenção de dados
 
 
 
