@@ -63,23 +63,24 @@ Biblioteca com mais de 1000 vídeos explicativos.**
 
 ### Sistema 2 : Wiki4Fit
 - **Problemas que resolve:**
-  **O Wiki4Fit resolve a falta de acompanhamento visual e registro confiável de treinos. Ajudando usuários e instrutores a controlar a evolução física, revisar exercícios e comparar resultados ao longo do tempo.**
+  
+  *O Wiki4Fit resolve a falta de acompanhamento visual e registro confiável de treinos. Ajudando usuários e instrutores a controlar a evolução física, revisar exercícios e comparar resultados ao longo do tempo.*
   
 - **Como resolve:**
 
-  **O sistema oferece:
+  *O sistema oferece:
 Histórico detalhado de séries, cargas e medidas corporais;
 Gráficos e estatísticas de evolução;
 Biblioteca com vídeos e instruções de exercícios;
-Comunidade e interação entre usuários.**
+Comunidade e interação entre usuários.*
   
 - **Pontos fortes:**
-  **Interface moderna e leve, com foco na experiência do usuário; seu acompanhamento visual eficiente com gráficos e comparativos.; uma biblioteca rica em vídeos e instruções.**
+  *Interface moderna e leve, com foco na experiência do usuário; seu acompanhamento visual eficiente com gráficos e comparativos.; uma biblioteca rica em vídeos e instruções.*
 
   
 - **Pontos fracos:**
 
-  **Não possui controle de múltiplos alunos; a falta de módulo financeiro e de comunicação profissional; é mais voltado ao aluno individual do que ao personal trainer.**
+  *Não possui controle de múltiplos alunos; a falta de módulo financeiro e de comunicação profissional; é mais voltado ao aluno individual do que ao personal trainer.*
 
   
 
