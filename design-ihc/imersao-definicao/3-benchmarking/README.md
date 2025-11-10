@@ -93,9 +93,9 @@ Comunidade e interação entre usuários.
 ## Tabela Comparativa
 
 | Sistema | Cadastro e busca de alunos | Histórico de treinos e evolução | Controle financeiro e pacotes | Comunicação com aluno | Comunicação com aluno | Acessibilidade (vídeos, letras, clareza) | Pontos Fortes | Pontos Fracos |
-|---------|------------------|------------------|---------------|---------------|----------------|------------|-----------|------------------|
-| MFIT Personal | ✅ | ❌ | - | - | - | - | - | - |
-| Wiki4Fit | ✅ | ✅ | - | - | - | - | - | - |
+|---------|--------------------|------------------|---------------|---------------|----------------|------------|-----------|------------------|
+| MFIT Personal | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | - | - |
+| Wiki4Fit | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | - | - |
 
 
 
