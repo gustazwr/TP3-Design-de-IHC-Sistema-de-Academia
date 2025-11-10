@@ -13,17 +13,17 @@
 | Experiência do usuário (UX) | Facilidade de aprendizado, tempo para realizar tarefas, satisfação geral do personal |
 | Público-alvo | Personal trainers e academias de pequeno porte |
 
-## Definição dos similares-alvo
+# Definição dos similares-alvo
 
 Foram selecionados dois sistemas similares voltados ao acompanhamento e gestão de treinos em academias e consultorias fitness: MFIT Personal e Wiki4Fit. Os dois pertencem ao mesmo domínio (tecnologias aplicadas à prática de atividades físicas e acompanhamento de alunos), todavia apresentam focos de uso distintos, permitindo uma análise mais ampla das abordagens adotadas no mercado.
 
-# MFIT Personal
+## MFIT Personal
 O MFIT Personal é uma plataforma de gestão completa para personal trainers e academias pequenas, desenvolvida para otimizar a rotina de acompanhamento de alunos e reduzir o uso de planilhas ou mensagens dispersas em aplicativos de conversa.
 O sistema permite cadastro e busca rápida de alunos, registro detalhado de treinos e avaliações físicas, controle financeiro (planos, pagamentos via Pix, boleto e cartão) e uma comunicação direta com os alunos por meio de notificações e chat interno.
 Seu público-alvo são profissionais de educação física, personal trainers e pequenos estúdios que necessitam de um sistema centralizado, prático e intuitivo.
 O MFIT é, portanto, um exemplo de solução voltada à gestão profissional, respondendo diretamente às dores relatadas no briefing (organização, otimização do tempo e acompanhamento dos alunos).
 
-# Wiki4Fit
+## Wiki4Fit
 O Wiki4Fit é um sistema colaborativo de registro e acompanhamento de treinos, destinado a usuários finais e instrutores que buscam acompanhar a evolução de forma visual e interativa.
 A plataforma oferece gráficos de desempenho, biblioteca de exercícios com vídeos explicativos, comparativos de medidas e cargas, além de estatísticas detalhadas que auxiliam na progressão individual.
 Seu público-alvo são alunos de academia, praticantes autônomos e instrutores que desejam monitorar resultados de forma independente.
