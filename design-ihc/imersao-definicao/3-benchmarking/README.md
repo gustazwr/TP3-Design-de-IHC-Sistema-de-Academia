@@ -101,5 +101,5 @@ Comunidade e interação entre usuários.
 
 
 ## Prints dos Sistemas
-- [Print Sistema 1](link_imagem1.jpg)
+- [Prints Sistema 1][link_imagem1.jpg](https://github.com/gustazwr/TP3-Design-de-IHC-Sistema-de-Academia/blob/main/design-ihc/imersao-definicao/Captura%20de%20tela%202025-11-09%20134020.png)
 - [Print Sistema 2](link_imagem2.jpg)
