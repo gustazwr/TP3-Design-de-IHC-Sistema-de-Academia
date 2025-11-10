@@ -13,6 +13,26 @@
 | Experiência do usuário (UX) | Facilidade de aprendizado, tempo para realizar tarefas, satisfação geral do personal |
 | Público-alvo | Personal trainers e academias de pequeno porte |
 
+## Definição dos similares-alvo
+
+Foram selecionados dois sistemas similares voltados ao acompanhamento e gestão de treinos em academias e consultorias fitness: MFIT Personal e Wiki4Fit. Os dois pertencem ao mesmo domínio (tecnologias aplicadas à prática de atividades físicas e acompanhamento de alunos), todavia apresentam focos de uso distintos, permitindo uma análise mais ampla das abordagens adotadas no mercado.
+
+# MFIT Personal
+O MFIT Personal é uma plataforma de gestão completa para personal trainers e academias pequenas, desenvolvida para otimizar a rotina de acompanhamento de alunos e reduzir o uso de planilhas ou mensagens dispersas em aplicativos de conversa.
+O sistema permite cadastro e busca rápida de alunos, registro detalhado de treinos e avaliações físicas, controle financeiro (planos, pagamentos via Pix, boleto e cartão) e uma comunicação direta com os alunos por meio de notificações e chat interno.
+Seu público-alvo são profissionais de educação física, personal trainers e pequenos estúdios que necessitam de um sistema centralizado, prático e intuitivo.
+O MFIT é, portanto, um exemplo de solução voltada à gestão profissional, respondendo diretamente às dores relatadas no briefing (organização, otimização do tempo e acompanhamento dos alunos).
+
+# Wiki4Fit
+O Wiki4Fit é um sistema colaborativo de registro e acompanhamento de treinos, destinado a usuários finais e instrutores que buscam acompanhar a evolução de forma visual e interativa.
+A plataforma oferece gráficos de desempenho, biblioteca de exercícios com vídeos explicativos, comparativos de medidas e cargas, além de estatísticas detalhadas que auxiliam na progressão individual.
+Seu público-alvo são alunos de academia, praticantes autônomos e instrutores que desejam monitorar resultados de forma independente.
+Diferentemente do MFIT, o Wiki4Fit não possui foco na gestão de múltiplos alunos ou no controle financeiro, mas se destaca pela usabilidade, interface moderna e experiência do usuário.
+Assim, o Wiki4Fit representa a visão centrada no aluno, enquanto o MFIT Personal representa a visão centrada no profissional. Essa dualidade permite compreender como o mercado equilibra a necessidade de gestão (lado do instrutor) e a experiência prática (lado do aluno) dentro do mesmo contexto digital.
+
+
+
+
 ## Tabela Comparativa
 
 | Sistema | Funcionalidade A | Funcionalidade B | Pontos Fortes | Pontos Fracos |
