@@ -2,7 +2,7 @@
 
 ## Sistemas Analisados
 1. **Sistema 1:** MFIT Personal
-2. **Sistema 2:** [Nome]
+2. **Sistema 2:** Wiki4Fit
 
 # Avaliação dos itens a serem comparados
 | Categoria | O que será avaliado|
@@ -61,11 +61,27 @@ Biblioteca com mais de 1000 vídeos explicativos.**
 
   **Pode apresentar instabilidade em algumas versões; há alguns menus que são extensos ou repetitivos; os recursos completos apenas nos planos pagos.**
 
-### Sistema 2
+### Sistema 2 : Wiki4Fit
 - **Problemas que resolve:**
+  **O Wiki4Fit resolve a falta de acompanhamento visual e registro confiável de treinos. Ajudando usuários e instrutores a controlar a evolução física, revisar exercícios e comparar resultados ao longo do tempo.**
+  
 - **Como resolve:**
+
+  **O sistema oferece:
+Histórico detalhado de séries, cargas e medidas corporais;
+Gráficos e estatísticas de evolução;
+Biblioteca com vídeos e instruções de exercícios;
+Comunidade e interação entre usuários.**
+  
 - **Pontos fortes:**
+  **Interface moderna e leve, com foco na experiência do usuário; seu acompanhamento visual eficiente com gráficos e comparativos.; uma biblioteca rica em vídeos e instruções.**
+
+  
 - **Pontos fracos:**
+
+  **Não possui controle de múltiplos alunos; a falta de módulo financeiro e de comunicação profissional; é mais voltado ao aluno individual do que ao personal trainer.**
+
+  
 
 
 
