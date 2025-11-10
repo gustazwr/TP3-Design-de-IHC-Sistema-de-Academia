@@ -103,6 +103,6 @@ Comunidade e interação entre usuários.
 ## Prints dos Sistemas
 ### Prints Sistema 1
 - [Imagem 1](https://github.com/gustazwr/TP3-Design-de-IHC-Sistema-de-Academia/blob/main/design-ihc/imersao-definicao/WhatsApp%20Image%202025-11-10%20at%2018.24.13%20(1).jpeg)
-
+- [Imagem 2](https://github.com/gustazwr/TP3-Design-de-IHC-Sistema-de-Academia/blob/main/design-ihc/imersao-definicao/WhatsApp%20Image%202025-11-10%20at%2018.24.13%20(2).jpeg)
 - 
 - [Print Sistema 2](link_imagem2.jpg)
