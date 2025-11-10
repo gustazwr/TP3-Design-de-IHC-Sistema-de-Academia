@@ -2,8 +2,12 @@
 
 ## Sistemas Analisados
 1. **Sistema 1:** [Nome]
-2. **Sistema 2:** [Nome] 
-3. **Sistema 3:** [Nome]
+2. **Sistema 2:** [Nome]
+
+## Avaliação dos itens a serem comparados
+| Categoria | O que será avaliado|
+|-----------|--------------------|
+| Funcionalidades| Cadastro de alunos, prescrição de treinos, acompanhamento de evolução, controle financeiro, comunicação com alunos |
 
 ## Tabela Comparativa
 
