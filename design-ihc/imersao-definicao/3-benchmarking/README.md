@@ -8,6 +8,10 @@
 | Categoria | O que será avaliado|
 |-----------|--------------------|
 | Funcionalidades| Cadastro de alunos, prescrição de treinos, acompanhamento de evolução, controle financeiro, comunicação com alunos |
+| Acessibilidade | Facilidade de leitura, uso de vídeos e recursos visuais, clareza das informações |
+| Layout e usabilidade | Organização das telas, fluidez da navegação, design responsivo e intuitivo |
+| Experiência do usuário (UX) | Facilidade de aprendizado, tempo para realizar tarefas, satisfação geral do personal |
+| Público-alvo | Personal trainers e academias de pequeno porte |
 
 ## Tabela Comparativa
 
