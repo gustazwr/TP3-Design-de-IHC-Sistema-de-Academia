@@ -79,7 +79,7 @@ Comunidade e interação entre usuários.
   
 - **Pontos fortes:**
   
-  Interface moderna e leve, com foco na experiência do usuário; seu acompanhamento visual eficiente com gráficos e comparativos.; uma biblioteca rica em vídeos e instruções.
+  Interface moderna e leve, com foco na experiência do usuário; seu acompanhamento visual eficiente com gráficos e comparativos; uma biblioteca rica em vídeos e instruções.
 
   
 - **Pontos fracos:**
@@ -94,8 +94,9 @@ Comunidade e interação entre usuários.
 
 | Sistema | Cadastro e busca de alunos | Histórico de treinos e evolução | Controle financeiro e pacotes | Comunicação com aluno | Comunicação com aluno | Acessibilidade (vídeos, letras, clareza) | Pontos Fortes | Pontos Fracos |
 |---------|--------------------|------------------|---------------|---------------|----------------|------------|-----------|------------------|
-| MFIT Personal | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | - | - |
-| Wiki4Fit | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | - | - |
+| MFIT Personal | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |  Sistema completo e centralizado (treino, finanças e comunicação); sua interface intuitiva e de fácil navegação; é ideal para personal trainers e academias pequenas | Pode apresentar instabilidade em algumas versões; há alguns menus que são extensos ou repetitivos; os recursos completos apenas nos planos pagos |
+| Wiki4Fit | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | Interface moderna e leve, com foco na experiência do usuário; seu acompanhamento visual eficiente com gráficos e comparativos; uma biblioteca rica em vídeos e instruções.
+ | Não possui controle de múltiplos alunos; a falta de módulo financeiro e de comunicação profissional; é mais voltado ao aluno individual do que ao personal trainer |
 
 
 
