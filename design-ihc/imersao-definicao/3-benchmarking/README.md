@@ -1,10 +1,10 @@
 # Benchmarking
 
 ## Sistemas Analisados
-1. **Sistema 1:** [Nome]
+1. **Sistema 1:** [MFIT Personal]
 2. **Sistema 2:** [Nome]
 
-## Avaliação dos itens a serem comparados
+# Avaliação dos itens a serem comparados
 | Categoria | O que será avaliado|
 |-----------|--------------------|
 | Funcionalidades| Cadastro de alunos, prescrição de treinos, acompanhamento de evolução, controle financeiro, comunicação com alunos |
@@ -12,6 +12,9 @@
 | Layout e usabilidade | Organização das telas, fluidez da navegação, design responsivo e intuitivo |
 | Experiência do usuário (UX) | Facilidade de aprendizado, tempo para realizar tarefas, satisfação geral do personal |
 | Público-alvo | Personal trainers e academias de pequeno porte |
+
+
+
 
 
 
@@ -30,11 +33,26 @@ O Wiki4Fit é um sistema colaborativo de registro e acompanhamento de treinos, d
 A plataforma oferece gráficos de desempenho, biblioteca de exercícios com vídeos explicativos, comparativos de medidas e cargas, além de estatísticas detalhadas que auxiliam na progressão individual.
 Seu público-alvo são alunos de academia, praticantes autônomos e instrutores que desejam monitorar resultados de forma independente.
 Diferentemente do MFIT, o Wiki4Fit não possui foco na gestão de múltiplos alunos ou no controle financeiro, mas se destaca pela usabilidade, interface moderna e experiência do usuário.
+
+
+
 Assim, o Wiki4Fit representa a visão centrada no aluno, enquanto o MFIT Personal representa a visão centrada no profissional. Essa dualidade permite compreender como o mercado equilibra a necessidade de gestão (lado do instrutor) e a experiência prática (lado do aluno) dentro do mesmo contexto digital.
 
 
 # Estabelecimento de indicadores e obtenção de dados
+## Análise por Sistema
 
+### Sistema 1 : MFIT Personal
+- **Problemas que resolve: Resolve a dificuldade de organizar, acompanhar e gerenciar os alunos de um personal trainer. Centralizando informações como fichas de treino, histórico de evolução, pagamentos e comunicação entre professor e aluno.**
+- **Como resolve:**
+- **Pontos fortes:**
+- **Pontos fracos:**
+
+### Sistema 2
+- **Problemas que resolve:**
+- **Como resolve:**
+- **Pontos fortes:**
+- **Pontos fracos:**
 
 
 
@@ -46,19 +64,6 @@ Assim, o Wiki4Fit representa a visão centrada no aluno, enquanto o MFIT Persona
 | Sistema 2 | ✅ | ✅ | - | - |
 | Sistema 3 | ❌ | ✅ | - | - |
 
-## Análise por Sistema
-
-### Sistema 1
-- **Problemas que resolve:**
-- **Como resolve:**
-- **Pontos fortes:**
-- **Pontos fracos:**
-
-### Sistema 2
-- **Problemas que resolve:**
-- **Como resolve:**
-- **Pontos fortes:**
-- **Pontos fracos:**
 
 ## Prints dos Sistemas
 - [Print Sistema 1](link_imagem1.jpg)
