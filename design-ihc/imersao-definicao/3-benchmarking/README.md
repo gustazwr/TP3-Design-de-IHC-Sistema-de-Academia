@@ -105,7 +105,7 @@ Comunidade e interação entre usuários.
 - [Imagem 1](https://github.com/gustazwr/TP3-Design-de-IHC-Sistema-de-Academia/blob/main/design-ihc/imersao-definicao/WhatsApp%20Image%202025-11-10%20at%2018.24.13%20(1).jpeg)
 - [Imagem 2](https://github.com/gustazwr/TP3-Design-de-IHC-Sistema-de-Academia/blob/main/design-ihc/imersao-definicao/WhatsApp%20Image%202025-11-10%20at%2018.24.13%20(2).jpeg)
 - [Imagem 3](https://github.com/gustazwr/TP3-Design-de-IHC-Sistema-de-Academia/blob/main/design-ihc/imersao-definicao/WhatsApp%20Image%202025-11-10%20at%2018.24.13.jpeg)
-- [Imagem 4](https://github.com/gustazwr/TP3-Design-de-IHC-Sistema-de-Academia/edit/main/design-ihc/imersao-definicao/3-benchmarking/README.md)
+- [Imagem 4](https://github.com/gustazwr/TP3-Design-de-IHC-Sistema-de-Academia/blob/main/design-ihc/imersao-definicao/WhatsApp%20Image%202025-11-10%20at%2018.24.14%20(1).jpeg)
 - [Imagem 5]()
 - [Imagem 6]()
 - [Print Sistema 2](link_imagem2.jpg)
