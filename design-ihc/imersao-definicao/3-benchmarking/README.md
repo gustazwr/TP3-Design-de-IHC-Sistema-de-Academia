@@ -14,10 +14,6 @@
 | Público-alvo | Personal trainers e academias de pequeno porte |
 
 
-
-
-
-
 # Definição dos similares-alvo
 
 Foram selecionados dois sistemas similares voltados ao acompanhamento e gestão de treinos em academias e consultorias fitness: MFIT Personal e Wiki4Fit. Os dois pertencem ao mesmo domínio (tecnologias aplicadas à prática de atividades físicas e acompanhamento de alunos), todavia apresentam focos de uso distintos, permitindo uma análise mais ampla das abordagens adotadas no mercado.
@@ -34,10 +30,7 @@ A plataforma oferece gráficos de desempenho, biblioteca de exercícios com víd
 Seu público-alvo são alunos de academia, praticantes autônomos e instrutores que desejam monitorar resultados de forma independente.
 Diferentemente do MFIT, o Wiki4Fit não possui foco na gestão de múltiplos alunos ou no controle financeiro, mas se destaca pela usabilidade, interface moderna e experiência do usuário.
 
-
-
 Assim, o Wiki4Fit representa a visão centrada no aluno, enquanto o MFIT Personal representa a visão centrada no profissional. Essa dualidade permite compreender como o mercado equilibra a necessidade de gestão (lado do instrutor) e a experiência prática (lado do aluno) dentro do mesmo contexto digital.
-
 
 # Estabelecimento de indicadores e obtenção de dados
 ## Análise por Sistema
@@ -48,7 +41,7 @@ Assim, o Wiki4Fit representa a visão centrada no aluno, enquanto o MFIT Persona
   Resolve a dificuldade de organizar, acompanhar e gerenciar os alunos de um personal trainer. Centralizando informações como fichas de treino, histórico de evolução, pagamentos e comunicação entre professor e aluno.
 - **Como resolve:**
   
-  Por meio de um sistema integral que permite:
+Por meio de um sistema integral que permite:
 Cadastro e busca de alunos por nome ou ID;
 Registro automático de treinos e avaliações;
 Cobrança integrada (Pix, cartão, boleto);
@@ -61,9 +54,6 @@ Biblioteca com mais de 1000 vídeos explicativos.
 
   Pode apresentar instabilidade em algumas versões; há alguns menus que são extensos ou repetitivos; os recursos completos apenas nos planos pagos.
 
-
-  
-
 ### Sistema 2 : Wiki4Fit
 - **Problemas que resolve:**
   
@@ -71,7 +61,7 @@ Biblioteca com mais de 1000 vídeos explicativos.
   
 - **Como resolve:**
 
-  O sistema oferece:
+O sistema oferece:
 Histórico detalhado de séries, cargas e medidas corporais;
 Gráficos e estatísticas de evolução;
 Biblioteca com vídeos e instruções de exercícios;
@@ -79,17 +69,15 @@ Comunidade e interação entre usuários.
   
 - **Pontos fortes:**
   
-  Interface moderna e leve, com foco na experiência do usuário; seu acompanhamento visual eficiente com gráficos e comparativos; uma biblioteca rica em vídeos e instruções.
+Interface moderna e leve, com foco na experiência do usuário; seu acompanhamento visual eficiente com gráficos e comparativos; uma biblioteca rica em vídeos e instruções.
 
   
 - **Pontos fracos:**
 
-  Não possui controle de múltiplos alunos; a falta de módulo financeiro e de comunicação profissional; é mais voltado ao aluno individual do que ao personal trainer.
-
-  
+Não possui controle de múltiplos alunos; a falta de módulo financeiro e de comunicação profissional; é mais voltado ao aluno individual do que ao personal trainer.
 
 
-
+-------------
 ## Tabela Comparativa
 
 | Sistema | Cadastro e busca de alunos | Histórico de treinos e evolução | Controle financeiro e pacotes | Comunicação com aluno | Comunicação com aluno | Acessibilidade (vídeos, letras, clareza) | Pontos Fortes | Pontos Fracos |
@@ -98,13 +86,15 @@ Comunidade e interação entre usuários.
 | Wiki4Fit | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | Interface moderna e leve, com foco na experiência do usuário; seu acompanhamento visual eficiente com gráficos e comparativos; uma biblioteca rica em vídeos e instruções | Não possui controle de múltiplos alunos; a falta de módulo financeiro e de comunicação profissional; é mais voltado ao aluno individual do que ao personal trainer |
 
 
-
 ## Screenshot dos Sistemas
 ### Screenshot Sistema 1
-- [Imagem 1](https://github.com/gustazwr/TP3-Design-de-IHC-Sistema-de-Academia/blob/main/design-ihc/imersao-definicao/WhatsApp%20Image%202025-11-10%20at%2018.24.13%20(1).jpeg)
-- [Imagem 2](https://github.com/gustazwr/TP3-Design-de-IHC-Sistema-de-Academia/blob/main/design-ihc/imersao-definicao/WhatsApp%20Image%202025-11-10%20at%2018.24.13%20(2).jpeg)
-- [Imagem 3](https://github.com/gustazwr/TP3-Design-de-IHC-Sistema-de-Academia/blob/main/design-ihc/imersao-definicao/WhatsApp%20Image%202025-11-10%20at%2018.24.13.jpeg)
-- [Imagem 4](https://github.com/gustazwr/TP3-Design-de-IHC-Sistema-de-Academia/blob/main/design-ihc/imersao-definicao/WhatsApp%20Image%202025-11-10%20at%2018.24.14%20(1).jpeg)
-- [Imagem 5]()
-- [Imagem 6]()
-- [Print Sistema 2](link_imagem2.jpg)
+
+<img src="https://github.com/user-attachments/assets/f36a0842-0f6a-41f2-ba08-eed874bc0e56" width="300">
+<img src="https://github.com/user-attachments/assets/804dd053-f9c4-49ae-844d-ba1c6aa00bdd" width="300">
+<img src="https://github.com/user-attachments/assets/b7a426f7-4a48-4494-9e68-91ccbefce3b9" width="300"> 
+<img src="https://github.com/user-attachments/assets/6cc0b7e3-201f-4ecc-9fbd-24040c2517fb" width="300">
+<img src="https://github.com/user-attachments/assets/65bdc2f8-5189-4a01-915e-ec55c4b330f3" width="300">
+<img src="https://github.com/user-attachments/assets/e3cbce44-0628-41f8-8809-1d778c1455a8" width="300">
+
+
+
