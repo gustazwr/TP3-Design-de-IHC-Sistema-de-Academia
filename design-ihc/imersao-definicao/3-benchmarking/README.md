@@ -93,7 +93,8 @@ Não possui controle de múltiplos alunos; a falta de módulo financeiro e de co
 <img src="https://github.com/user-attachments/assets/804dd053-f9c4-49ae-844d-ba1c6aa00bdd" width="300">
 <img src="https://github.com/user-attachments/assets/b7a426f7-4a48-4494-9e68-91ccbefce3b9" width="300"> 
 <img src="https://github.com/user-attachments/assets/6cc0b7e3-201f-4ecc-9fbd-24040c2517fb" width="300">
-<img src="https://github.com/user-attachments/assets/65bdc2f8-5189-4a01-915e-ec55c4b330f3" width="300"> <img src="https://github.com/user-attachments/assets/e3cbce44-0628-41f8-8809-1d778c1455a8" width="300">
+<img src="https://github.com/user-attachments/assets/65bdc2f8-5189-4a01-915e-ec55c4b330f3" width="300"> 
+<img src="https://github.com/user-attachments/assets/e3cbce44-0628-41f8-8809-1d778c1455a8" width="300">
 
 
 
