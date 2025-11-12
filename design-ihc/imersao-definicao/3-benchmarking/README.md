@@ -49,32 +49,32 @@ Assim, o Wiki4Fit representa a visão centrada no aluno, enquanto o MFIT Persona
   Biblioteca com mais de 1000 vídeos explicativos.
 - **Pontos fortes:**
 
-  Sistema completo e centralizado (treino, finanças e comunicação); sua interface intuitiva e de fácil navegação; é ideal para personal trainers e academias pequenas.
+  Sistema completo e centralizado (treino, finanças e comunicação); sua interface intuitiva e de fácil navegação; é ideal para       personal trainers e academias pequenas.
 - **Pontos fracos:**
 
-  Pode apresentar instabilidade em algumas versões; há alguns menus que são extensos ou repetitivos; os recursos completos apenas nos planos pagos.
+  Pode apresentar instabilidade em algumas versões; há alguns menus que são extensos ou repetitivos; os recursos completos apenas    nos planos pagos.
 
 ### Sistema 2 : Wiki4Fit
 - **Problemas que resolve:**
   
-  O Wiki4Fit resolve a falta de acompanhamento visual e registro confiável de treinos. Ajudando usuários e instrutores a controlar a evolução física, revisar exercícios e comparar resultados ao longo do tempo.
+  O Wiki4Fit resolve a falta de acompanhamento visual e registro confiável de treinos. Ajudando usuários e instrutores a controlar   a evolução física, revisar exercícios e comparar resultados ao longo do tempo.
   
 - **Como resolve:**
 
-O sistema oferece:
-Histórico detalhado de séries, cargas e medidas corporais;
-Gráficos e estatísticas de evolução;
-Biblioteca com vídeos e instruções de exercícios;
-Comunidade e interação entre usuários.
+  O sistema oferece:
+  Histórico detalhado de séries, cargas e medidas corporais;
+  Gráficos e estatísticas de evolução;
+  Biblioteca com vídeos e instruções de exercícios;
+  Comunidade e interação entre usuários.
   
 - **Pontos fortes:**
   
-Interface moderna e leve, com foco na experiência do usuário; seu acompanhamento visual eficiente com gráficos e comparativos; uma biblioteca rica em vídeos e instruções.
+  Interface moderna e leve, com foco na experiência do usuário; seu acompanhamento visual eficiente com gráficos e comparativos;     uma biblioteca rica em vídeos e instruções.
 
   
 - **Pontos fracos:**
 
-Não possui controle de múltiplos alunos; a falta de módulo financeiro e de comunicação profissional; é mais voltado ao aluno individual do que ao personal trainer.
+  Não possui controle de múltiplos alunos; a falta de módulo financeiro e de comunicação profissional; é mais voltado ao aluno       individual do que ao personal trainer.
 
 
 -------------
