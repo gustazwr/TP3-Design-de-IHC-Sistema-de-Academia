@@ -17,4 +17,6 @@ Trabalho Prático 3 - Interação Humano-Computador - Engenharia de Software
 
 ## 📝 Resumo do sistema
 Breve descrição aqui:  
-> O sistema avaliado é o **Aplicativo IbisPaint x**, sendo um aplicativo de desenho digital para Android e iOS, voltado a artistas iniciantes e avançados. Ele oferece recursos como pincéis personalizáveis, camadas, filtros, modos de mesclagem e gravação do processo de criação em vídeo. O app funciona no modelo freemium, com versão gratuita e opção paga (Prime), sendo uma das ferramentas de ilustração mais populares em dispositivos móveis.
+> O TP3 tem como objetivo aplicar os conceitos de Interação Humano–Computador nas fases de Imersão e Definição, por meio do desenvolvimento de um Sistema de Gestão de Academia.
+O projeto busca entender as necessidades reais de usuários, como personais e alunos, e propor soluções que tornem o sistema eficiente e fácil de usar.
+A primeira etapa contou com um briefing com uma personal trainer, servindo como base para as próximas fases: Matriz CSD, Benchmarking, Personas, Jornada do Usuário e Priorização com MoSCoW.
