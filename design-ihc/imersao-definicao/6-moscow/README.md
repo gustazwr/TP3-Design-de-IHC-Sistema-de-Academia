@@ -1,11 +1,5 @@
 # Priorização de Requisitos - MoScow
 
-# 🧭 Tabela MoSCoW – Sistema de Gestão de Academia
-
-A priorização foi feita com base nas etapas de **Briefing, Matriz CSD e Benchmarking**, considerando as necessidades levantadas junto à cliente (personal trainer) e as análises de sistemas similares (MFIT Personal e Wiki4Fit).
-
----
-
 ##  Must Have 
 
 | Funcionalidade / Requisito | Origem | Justificativa |
