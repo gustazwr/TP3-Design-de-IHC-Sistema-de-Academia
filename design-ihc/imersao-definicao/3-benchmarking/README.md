@@ -41,12 +41,12 @@ Assim, o Wiki4Fit representa a visão centrada no aluno, enquanto o MFIT Persona
   Resolve a dificuldade de organizar, acompanhar e gerenciar os alunos de um personal trainer. Centralizando informações como fichas de treino, histórico de evolução, pagamentos e comunicação entre professor e aluno.
 - **Como resolve:**
   
-Por meio de um sistema integral que permite:
-Cadastro e busca de alunos por nome ou ID;
-Registro automático de treinos e avaliações;
-Cobrança integrada (Pix, cartão, boleto);
-Chat interno e notificações;
-Biblioteca com mais de 1000 vídeos explicativos.
+  Por meio de um sistema integral que permite:
+  Cadastro e busca de alunos por nome ou ID;
+  Registro automático de treinos e avaliações;
+  Cobrança integrada (Pix, cartão, boleto);
+  Chat interno e notificações;
+  Biblioteca com mais de 1000 vídeos explicativos.
 - **Pontos fortes:**
 
   Sistema completo e centralizado (treino, finanças e comunicação); sua interface intuitiva e de fácil navegação; é ideal para personal trainers e academias pequenas.
