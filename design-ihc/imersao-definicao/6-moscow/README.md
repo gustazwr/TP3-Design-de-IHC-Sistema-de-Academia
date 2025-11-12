@@ -4,7 +4,7 @@
 
 A priorização foi feita com base nas etapas de **Briefing, Matriz CSD e Benchmarking**, considerando as necessidades levantadas junto à cliente (personal trainer) e as análises de sistemas similares (MFIT Personal e Wiki4Fit).
 
----
+-
 
 ## ✅ Must Have *(Obrigatórios)*
 
