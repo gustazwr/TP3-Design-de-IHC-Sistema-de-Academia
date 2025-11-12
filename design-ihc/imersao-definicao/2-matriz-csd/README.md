@@ -2,11 +2,14 @@
 
 | Certezas (C) | Suposições (S) | Dúvidas (D) |
 |--------------|----------------|-------------|
-| O sistema será usado por personal trainers. | Personais preferem usar o sistema no celular. | Como eles organizam treinos hoje? |
-| Eles precisam organizar treinos, agenda e alunos. | Eles gostariam de gerar PDF de treinos. | Qual é a principal dor deles? |
-| A comunicação com alunos é majoritariamente via WhatsApp. | Eles pagariam uma mensalidade baixa. | O sistema precisa funcionar offline? |
-| Personais atendem vários alunos simultaneamente. | Eles querem modelos prontos de treino. | Como preferem montar treinos no sistema? |
-| O sistema deve ser simples e rápido. | Eles precisam de controle financeiro detalhado. | Eles precisam de avaliação física integrada? |
+| Busca rápida por aluno pelo nome ou identificador. | Exibição automática do último treino ao abrir o perfil do aluno. | Como eles organizam treinos hoje? |
+| Abertura imediata da ficha completa do aluno. | Exibição automática do último treino ao abrir o perfil do aluno. | Qual é a principal dor deles? |
+| Histórico detalhado dos treinos (exercícios, séries, repetições, cargas). | Registro de evolução com base nos treinos anteriores. | O sistema precisa funcionar offline? |
+| Controle de pagamentos, vencimentos e status de cada aluno. | Registro de limitações físicas, lesões ou condições especiais. | Como preferem montar treinos no sistema? |
+|Lista centralizada com todos os alunos acompanhados. | Agenda básica para horários e controle de atrasos. | Eles precisam de avaliação física integrada? |
+| Interface simples para uso rápido durante a rotina de treinos. | Painel geral para visualizar status dos alunos de forma rápida. | - | 
+| Notificações automáticas (treino, avaliação, vencimento). | - | - |
+| Comunicação interna (simples), desde que mais organizada que WhatsApp. | - | - |
 
 --------
 ## Evidência
