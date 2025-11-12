@@ -14,14 +14,13 @@
 ---
 ## ✅ Must Have 
 
-| Funcionalidades |
-|-----------------|
-| Busca rápida por aluno (nome ou ID) |
-| Abertura imediata da ficha completa do aluno |
-| Histórico detalhado de treinos e cargas |
-| Controle de pagamentos e status |
-| Interface simples e prática |
-| Comunicação interna mais organizada |
+
+ Busca rápida por aluno (nome ou ID) 
+ Abertura imediata da ficha completa do aluno 
+ Histórico detalhado de treinos e cargas 
+ Controle de pagamentos e status 
+ Interface simples e prática 
+ Comunicação interna mais organizada 
 
 ---
 
