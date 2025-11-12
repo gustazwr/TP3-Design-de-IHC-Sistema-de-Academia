@@ -8,12 +8,12 @@ Trabalho Prático 3 - Interação Humano-Computador - Engenharia de Software
 - Adriano Monteiro Rolim — 22551471
 
 ## 📂 Estrutura do repositório
-- [1 - Descrição do sistema](1-descrição-sistema.md)  
-- [2 - Inspeção de Usabilidade](2-Inspeção-Usabilidade.md)  
-- [3 - Teste de Usabilidade](3-Teste-Usabilidade.md)  
-- [4 - Avaliação de UX](4-Avaliação-UX.md)  
-- [5 - Avaliação de Comunicabilidade](5-Avaliação-Comunicabilidade.md)  
-- [6 - Conclusões](6-Conclusões.md)  
+- [1 - Descrição do sistema](1-briefing)  
+- [2 - Inspeção de Usabilidade](2-matriz-csd)  
+- [3 - Teste de Usabilidade](3-benchmarking)  
+- [4 - Avaliação de UX](4-personas)  
+- [5 - Avaliação de Comunicabilidade](5-jornada-do-usuario)  
+- [6 - Conclusões](6-moscow)  
 
 ## 📝 Resumo do sistema
 Breve descrição aqui:  
