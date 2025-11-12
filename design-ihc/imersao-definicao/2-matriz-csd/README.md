@@ -10,7 +10,7 @@
 
 --------
 ## Evidência
-![Reunião da equipe](reunião](https://github.com/user-attachments/assets/203ae427-d037-4ce9-868b-b8dd39972d09)) - foto nossa sobre a matriz CSD
+[Reunião da equipe](https://github.com/user-attachments/assets/203ae427-d037-4ce9-868b-b8dd39972d09) - foto nossa sobre a matriz CSD
 
 
 
