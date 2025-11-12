@@ -12,7 +12,7 @@
 | Comunicação interna mais organizada | — | — | — |
 
 ---
-## ✅ Must Have 
+##  Must Have 
 
 - Busca rápida por aluno (nome ou ID) 
 - Abertura imediata da ficha completa do aluno 
@@ -23,32 +23,29 @@
 
 ---
 
-## 👍 Should Have 
+##  Should Have 
 
-| Funcionalidades |
-|-----------------|
-| Exibição automática do último treino |
-| Registro de evolução e objetivos individuais |
-| Notificações automáticas (avaliações, vencimentos) |
-| Painel geral de status dos alunos |
 
----
-
-## ✨ Could Have 
-
-| Funcionalidades |
-|-----------------|
-| Lembretes de avaliações físicas |
-| Organização por academia |
-| Registro de limitações físicas e lesões |
-| Possibilidade de anexar fotos e vídeos |
+- Exibição automática do último treino
+- Registro de evolução e objetivos individuais 
+- Notificações automáticas (avaliações, vencimentos)
+- Painel geral de status dos alunos 
 
 ---
 
-## 🚫 Won’t Have *(Fora do Escopo Atual)*
+##  Could Have 
 
-| Funcionalidades |
-|-----------------|
-| Chat em tempo real ou integrado com redes sociais |
-| Comparativos e gráficos avançados de desempenho |
-| Avaliações muito detalhadas ou complexas |
+- Lembretes de avaliações físicas 
+- Organização por academia 
+- Registro de limitações físicas e lesões
+- Possibilidade de anexar fotos e vídeos 
+
+  
+---
+
+##  Won’t Have *(Fora do Escopo Atual)*
+
+
+- Chat em tempo real ou integrado com redes sociais 
+- Comparativos e gráficos avançados de desempenho 
+- Avaliações muito detalhadas ou complexas 
