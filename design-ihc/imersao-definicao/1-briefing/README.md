@@ -65,7 +65,7 @@ A personal necessita de um sistema simples, rápido e focado em organização. S
 ---
 
 ## 5. Evidências
-- **PDF da entrevista:** `briefing_reuniao.pdf`
+- **PDF da entrevista:** 
 - **Foto da reunião:** `evidencia_reuniao.jpg` (rostos externos borrados)
 
 
