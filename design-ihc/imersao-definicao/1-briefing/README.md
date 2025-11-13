@@ -68,6 +68,9 @@ A personal necessita de um sistema simples, rápido e focado em organização. S
 - **PDF da entrevista:** 
 - **Foto da reunião:**
 <img width="544" height="475" alt="Captura de tela 2025-11-12 211843" src="https://github.com/user-attachments/assets/29f0dfa5-e1af-426f-9fbb-e8ce285ca0c5" />
+<img width="544" height="475" alt="Captura de tela 2025-11-12 212211" src="https://github.com/user-attachments/assets/3652dd04-46fa-413e-a5c8-6fdfd72cc09d" />
+<img width="544" height="475" alt="Captura de tela 2025-11-12 212223" src="https://github.com/user-attachments/assets/d448f8af-37ed-41d1-b8dd-a985c569d032" />
+
 
 
 
