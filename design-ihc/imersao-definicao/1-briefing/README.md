@@ -66,7 +66,11 @@ A personal necessita de um sistema simples, rápido e focado em organização. S
 
 ## 5. Evidências
 - **PDF da entrevista:** 
-- **Foto da reunião:** `evidencia_reuniao.jpg` (rostos externos borrados)
+- **Foto da reunião:**
+<img width="544" height="475" alt="Captura de tela 2025-11-12 211843" src="https://github.com/user-attachments/assets/29f0dfa5-e1af-426f-9fbb-e8ce285ca0c5" />
+
+
+
 
 
 
