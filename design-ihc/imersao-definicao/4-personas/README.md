@@ -4,9 +4,9 @@
 <img width="658" height="684" alt="Captura de tela 2025-11-12 210836" src="https://github.com/user-attachments/assets/2b23f622-2003-4073-8bc7-d3cda424869f" />
 
 ### Quem
-- **Profissão:** Dono/Gestor de academia
-- **Escolaridade:** 
-- **Idade:** 
+- **Profissão:** Personal.
+- **Escolaridade:** Formado em Educação física.
+- **Idade:** 32 anos.
 
 ### Contexto
 - **Tarefas rotineiras:**
